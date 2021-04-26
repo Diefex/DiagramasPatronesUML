@@ -3,7 +3,8 @@
 __Integrantes__:
  - Diego Alejandro Velez Garcia - 20172020075
  - Oscar Carrillo Gonzalez - 20162021318
- - Juan Sebastian Gonzalez - 201********
+ - Juan Sebastian Gonzalez - 20181020029
+
 
 Diagramas UML de los patrones de programacion Singleton y Builder.
 
