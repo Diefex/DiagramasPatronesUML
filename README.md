@@ -6,7 +6,7 @@ __Integrantes__:
  - Juan Sebastian Gonzalez - 20181020029
 
 
-Diagramas UML de los patrones de programacion Singleton y Builder.
+Diagramas UML.
 
 ---
 
